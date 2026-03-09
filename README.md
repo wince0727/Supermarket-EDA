@@ -36,6 +36,6 @@ Analyzed sales distribution across branches
 
 Observed customer purchasing behavior and payment trends
 
-Conclusion
+## Conclusion
 
 The analysis helped extract meaningful business insights from the sales data and demonstrated how data analytics can support better business decision-making.
